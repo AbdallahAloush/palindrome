@@ -1,0 +1,26 @@
+{
+  "name": "abdallahaloush-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallahAloush/palindrome.git"
+  },
+  "keywords": [
+    "javascript",
+    "palindrome",
+    "learning",
+    "tutorial",
+    "learn-enough"
+  ],
+  "author": "Abdallah Aloush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdallahAloush/palindrome/issues"
+  },
+  "homepage": "https://github.com/AbdallahAloush/palindrome#readme"
+}
